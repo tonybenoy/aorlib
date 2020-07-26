@@ -12,3 +12,10 @@
         <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Codestyle Black" height="17">
     </a>
 </p>
+
+A python library to interact with Arch Linux Official repository to search and find details of the package.
+You can find more information here: https://wiki.archlinux.org/index.php/Official_repositories_web_interface
+
+
+
+*DISCLAIMER: aorlib is not affiliated with Arch Linux©.
