@@ -18,4 +18,4 @@ You can find more information here: https://wiki.archlinux.org/index.php/Officia
 
 
 
-*DISCLAIMER: aorlib is not affiliated with Arch Linux©.
+*DISCLAIMER: aorlib is not affiliated with Arch Linux©.*
